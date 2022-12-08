@@ -1,5 +1,5 @@
 APScheduler==3.6.3
-certifi==2019.11.28
+certifi==2022.12.7
 Click==7.0
 colorhash==1.0.2
 configparser==4.0.2
